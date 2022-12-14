@@ -44,3 +44,9 @@
 .navbar-toggler-icon {
   color: #fff;
 }
+.logo {
+  width: 12px;
+  height: 12px;
+  border-radius: 100%;
+  object-fit: cover;
+}
